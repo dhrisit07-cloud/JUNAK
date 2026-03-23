@@ -1,2 +1,1 @@
 # JUNAK
-Kiba kibi
